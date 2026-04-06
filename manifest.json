@@ -3,7 +3,7 @@
   "name": "Print from Menu",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Print the current note rendered, not raw markdown. Cmd+P → Print Note.",
+  "description": "Adds Print to the right-click context menu for markdown files.",
   "author": "sachio222",
   "authorUrl": "https://github.com/sachio222",
   "isDesktopOnly": true
